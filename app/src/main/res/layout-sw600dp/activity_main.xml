@@ -19,8 +19,10 @@
 
     <ImageView
         android:id="@+id/iconImageView"
-        android:layout_width="match_parent"
-        android:layout_height="851dp"
+        android:layout_width="915dp"
+        android:layout_height="match_parent"
         android:contentDescription="@string/image_description"
+        android:rotationX="4"
+        android:rotationY="2"
         app:srcCompat="@drawable/programacaoiv" />
 </LinearLayout>
