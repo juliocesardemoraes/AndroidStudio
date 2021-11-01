@@ -1,8 +1,9 @@
 # AndroidStudio
 
--Tarefa Tablet-
+-Tarefa de faculdade -Tablet-
 
 -Adicionei uma versão tablet ao projeto original-
+
 -Adicionei uma versão landscape tambem ao projeto original-
 
 -Bugs-
